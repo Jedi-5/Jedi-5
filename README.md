@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **email@kanis.hk**
 
-- ⚡ Fun fact **♞♛♚ Chaturanga Aficionado**
+- ⚡ Fun fact **Chaturanga(♞♛♚) Aficionado**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
