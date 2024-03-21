@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kanishk</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedi-5&label=Profile%20views&color=0e75b6&style=flat" alt="jedi-5" /> </p>
 
 - 🔭 I’m currently working on **DevOps, DevSecOps, AWS, GCP, Python, K8s, Terraform**
 
 - 🌱 I’m currently learning **FinOps, AI/ML, Quantum Computing**
+
+- 📝 I write articles on [https://medium.com/@jedi5](https://medium.com/@jedi5)
 
 - 📫 How to reach me **email@kanis.hk**
 
