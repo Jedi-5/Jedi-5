@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kanishk</h1>
-<h3 align="center">Currently working as Senior IT Architect at FIS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedi-5&label=Profile%20views&color=0e75b6&style=flat" alt="jedi-5" /> </p>
 
